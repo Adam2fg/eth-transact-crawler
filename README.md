@@ -85,7 +85,7 @@ npm run build
 
 The built files will be in the `dist` directory.
 
-## Notes
+## Caution Notes
 
 - The application uses the Ethereum mainnet by default
 - For testing purposes, consider using a testnet (Goerli or Sepolia) by modifying the Infura URL
